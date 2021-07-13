@@ -221,7 +221,7 @@ dependencies {
 	// WebJars
 	implementation 'org.webjars:jquery:1.12.4'
 	implementation 'org.webjars.bower:jquery.ui:1.12.1'
-	implementation 'org.webjars:bootstrap:3.3.7-1' // Content
+	implementation 'org.webjars:bootstrap:5.0.1' // Content
 	implementation 'org.webjars.bower:bootstrap:4.6.0' // Preview
 	implementation 'org.webjars.npm:angular:1.8.2'
 	implementation 'org.webjars.npm:angular-resource:1.8.2'
